@@ -1,0 +1,17 @@
+body
+{
+	font-family:"Segoe UI Light","Segoe UI Web Light","Segoe UI Web Regular","Segoe UI","Segoe UI Symbol","HelveticaNeue-Light","Helvetica Neue",Arial,sans-serif;
+	margin:0px;
+	padding:0px;
+	/*background-image:url("../images/new.jpg");*/
+	font-weight:lighter;
+	line-height:190%;
+	font-size:16px;
+}
+
+h1{
+		font-size:56px;
+		line-height:1.2;
+		font-weight:lighter;
+	}
+	

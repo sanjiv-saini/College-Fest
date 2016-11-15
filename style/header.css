@@ -1,0 +1,59 @@
+a
+{
+ text-decoration:none;
+ color:#aaaaaa;
+}
+
+#header
+{
+	height:35px;
+	background-color:#222222;
+	color:#aaaaaa;
+	padding:10px;
+	padding-left:35px;
+	padding-right:35px;
+	margin-left:auto;
+	margin-right:auto;
+	position:fixed;
+	right:0;
+	left:0;
+	top:0;
+	width:auto;
+
+}
+
+
+#logo
+{
+	color:white;
+	font-weight:100;
+	font-size:30px;
+}
+
+#user
+{
+	padding-top:10px;
+   float:right;
+    
+}
+
+#signIn
+{
+	font-family:inherit;
+	background-color:transparent;
+	border:none;
+	color:#aaaaaa;
+	padding:5px;
+	font-size:inherit;
+	cursor:pointer;
+}
+
+
+#signIn:hover,#createAccount:hover,#signOut:hover
+{
+	color:white;
+}
+
+
+
+

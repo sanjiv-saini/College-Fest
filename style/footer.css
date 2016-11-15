@@ -1,0 +1,20 @@
+#footer
+{	padding:0px;
+	padding-left:35px;
+	padding-right:35px;
+	background-color:#333333;
+	color:#cccccc;
+	margin-left:auto;
+	margin-right:auto;
+	position:fixed;
+	right:0;
+	left:0;
+	bottom:0;
+	width:auto;
+}
+
+#copy
+{
+	float:right;
+
+}
