@@ -7,6 +7,9 @@ College fest information web app
 * Different colleges can create their account & add info regarding fests organized by their college.
 * Used HTML5, CSS3, Javascript, PHP and MySql.
 
+![alt tag](https://github.com/sanju-singh/College-Fest/blob/master/images/app.png)
+
+
 <h2>Copyright</h2>
 
     Copyright 2016 sanju singh
