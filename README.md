@@ -1,5 +1,5 @@
 # College-Fest
-College fest information web app
+This app provide College fest information to student, making it easier for them for register for upcoming events easily
 
 <h2>About</h2>
 
